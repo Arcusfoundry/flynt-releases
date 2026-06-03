@@ -22,13 +22,9 @@ Get-FileHash .\FlyntSetup.exe -Algorithm SHA256
 The printed hash must equal the one in the release notes. If it does not match, **do not run the
 installer** — re-download from the official release page above.
 
-## Current release
-
-| | |
-|---|---|
-| **Version** | v1.7.45 |
-| **File** | `FlyntSetup.exe` |
-| **SHA256** | `cf6c9366b819f46cc4e3e5c772dbfe66b904e3c1dfa49fd752eae1e087c38b12` |
+The current version, download, and its SHA256 always live on the
+[**latest release**](https://github.com/Arcusfoundry/flynt-releases/releases/latest) page — that is
+the single source of truth, so this README never goes stale.
 
 ---
 
